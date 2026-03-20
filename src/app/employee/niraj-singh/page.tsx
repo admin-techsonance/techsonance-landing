@@ -6,7 +6,7 @@ export default function Page() {
          role: "Full Stack Developer",
         description: "Turning complex problems into clean, scalable full-stack solutions.",
         bio: "As a Full Stack Developer, I bridge design and development to create fast, secure, and user-centric applications. I work across frontend, backend, APIs, and databases to build products that are efficient, maintainable, and future-ready. I value performance optimization, structured workflows, and writing code that not only works—but lasts.",
-        image: "/employee-profile/Niraj.jpeg",
+        image: "/employee-profile/nirajsingh.jpeg",
         email: "niraj.techsonance@outlook.com",
         linkedin: "https://linkedin.com/in/niraj1742",
         github: "https://github.com/niraj-dev-techsonance",

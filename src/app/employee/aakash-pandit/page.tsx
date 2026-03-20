@@ -27,18 +27,18 @@ export default function Page() {
             },
         ],
         projects: [
-            // {
-            //     title: "Distributed Payment Gateway",
-            //     description: "Built a fault-tolerant payment processing system with double-entry accounting records.",
-            //     tags: ["Node.js", "Kafka", "PostgreSQL"],
-            //     link: "#"
-            // },
-            // {
-            //     title: "Real-time Messaging Engine",
-            //     description: "Scalable WebSocket server capable of handling 500k+ concurrent connections.",
-            //     tags: ["WebSockets", "Redis", "TypeScript"],
-            //     link: "#"
-            // },
+            {
+                title: "GenZ Storez",
+                description: "GenZ Storez is a modern online platform offering trendy products with a clean design and smooth, user-friendly shopping experience.",
+                tags: ["HTML", "CSS", "React.js"],
+                link: "https://genzstorez.netlify.app/"
+            },
+            {
+                title: "MeltMagic",
+                description: "MeltMagic is a modern AI-driven agency platform that builds high-performance digital solutions, automation systems, and scalable products to help businesses grow faster.",
+                tags: ["HTML", "CSS", "GSAP"],
+                link: "https://meltmagic.netlify.app/"
+            },
             // {
             //     title: "Automated Data Migration Tool",
             //     description: "Custom zero-downtime migration utility for large-scale database transitions.",
@@ -47,7 +47,7 @@ export default function Page() {
             // }
         ],
         achievements: [
-            // "Published Paper on Distributed Consensus",
+            "Prompt Engineering ( IBM Certified )",
             // "Node.js Core Contributor",
             // "Certified Kubernetes Administrator (CKA)"
         ]
